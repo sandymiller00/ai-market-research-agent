@@ -49,8 +49,7 @@ cd ai-market-research-agent
 Create a `.env` file with your API keys:
 
 ```
-OPENAI_API_KEY=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
-TAVILY_API_KEY=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
+
 
 ```
 
